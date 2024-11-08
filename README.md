@@ -5,6 +5,7 @@
 **Sprunked** é uma experiência interativa única que traz um toque de criatividade e diversão ao seu dia! Inspirado em clássicos de jogos de palavras, Sprunked oferece uma nova maneira de testar suas habilidades linguísticas e desafiar sua mente enquanto tenta adivinhar as palavras ocultas.
 
 ## Recursos Principais
+#By Mudassir Alam
 
 - **Jogo de Palavras Engajador**: Teste seu vocabulário e seu raciocínio com uma variedade de palavras e temas.
 - **Desafios Diários**: Novos desafios todos os dias para manter o jogo sempre interessante e desafiador.
